@@ -7,3 +7,5 @@
 * merge
 * permissions
 * Github classroom
+* exercises
+* skills
